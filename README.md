@@ -1,3 +1,4 @@
+📊 Estatísticas
 # 👋 Nathan Silva
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px;">
@@ -51,31 +52,10 @@
 
                         ## 📊 Estatísticas & Atividades
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&count_private=true)
 
-<table>
-    <tr>
-          <td colspan="2">
-                  <picture>
-                            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=transparent&hide_border=false&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&count_private=true&custom_title=📊%20GitHub%20Stats">
-                            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=default&hide_border=false&count_private=true&custom_title=📊%20GitHub%20Stats">
-                  </picture>picture>
-          </td>td>
-    </tr>tr>
-    <tr>
-          <td colspan="2">
-                  <picture>
-                            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=transparent&hide_border=false&bg_color=0D1117&text_color=58A6FF">
-                            <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=default&hide_border=false">
-                  </picture>picture>
-          </td>td>
-    </tr>tr>
-</table>table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark)
 
-</div>
-    </tr>
-    </tr>
-</table>
 
                         ---
 
