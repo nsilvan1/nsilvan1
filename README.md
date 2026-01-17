@@ -51,17 +51,17 @@
 
                         ## 📊 Estatísticas & Atividades
 
-                        <div align="center">
+<div align="center">
 
-                        #### 🎯 Seus Dados de Atividade
+#### 🎯 Seus Dados de Atividade
 
-                        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=GitHub+Stats+de+nsilvan1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=GitHub+Stats+de+nsilvan1)
 
-                        #### 🏆 Linguagens Mais Usadas
+#### 🏆 Linguagens Mais Usadas
 
-                        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark&hide_border=true&count_private=true)
 
-                        </div>
+</div>
 
                         ---
 
@@ -71,7 +71,7 @@
 
                         | Período | Foco | Realizações |
                         |---------|------|-------------|
-                        | **2024-2025** | Desenvolvimento FiveM Avançado | 126 commits, 9 novos repositórios |
+                        | **2024-2025** | Desenvolvimento FiveM Avançado | 126 commits, 9 novos repositórios |h
                         | **2023-2024** | Full Stack & Automação | Frameworks complexos, sistemas de tracking |
                         | **2022-2023** | Consolidação | Bot development, análise de dados |
                         | **2021-2022** | Iniciante | Primeiros projetos, aprendizado |
