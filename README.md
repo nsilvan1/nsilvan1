@@ -52,9 +52,31 @@
 
                         ## 📊 Estatísticas & Atividades
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark)
+<table>
+    <tr>
+          <td colspan="2">
+                  <picture>
+                            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=transparent&hide_border=false&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&count_private=true&custom_title=📊%20GitHub%20Stats">
+                            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=default&hide_border=false&count_private=true&custom_title=📊%20GitHub%20Stats">
+                  </picture>picture>
+          </td>td>
+    </tr>tr>
+    <tr>
+          <td colspan="2">
+                  <picture>
+                            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=transparent&hide_border=false&bg_color=0D1117&text_color=58A6FF">
+                            <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=default&hide_border=false">
+                  </picture>picture>
+          </td>td>
+    </tr>tr>
+</table>table>
+
+</div>
+    </tr>
+    </tr>
+</table>
 
 
                         ---
