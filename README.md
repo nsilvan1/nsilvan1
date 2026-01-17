@@ -42,9 +42,13 @@ Desenvolvedor apaixonado por código limpo e soluções criativas. Com experiên
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&hide_border=true&count_private=true)
+#### 🎯 Seus Dados de Atividade
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=GitHub+Stats+de+nsilvan1)
+
+#### 🏆 Linguagens Mais Usadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 </div>
 
