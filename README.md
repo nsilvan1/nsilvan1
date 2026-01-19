@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+Full+Stack;Especialista+em+FiveM+e+Lua;Criador+de+Soluções+Inovadoras;+1.742+Contribuições+no+Último+Ano" alt="Typing SVG" />
-</div>div>
+</div>
 
 ---
 
@@ -107,9 +107,9 @@ Desenvolvedor apaixonado por código limpo e soluções criativas. Com experiên
 
       - 🎮 Desenvolvimento de Servidores FiveM e Modificações GTA V
       - - 💻 Programação Web e Mobile
-        - - 📊 Análise e Visualização de Dados
-          - - 🤖 Automação e Bots
-            - - 🧪 Testes e Quality Assurance
+      - - 📊 Análise e Visualização de Dados
+      - - 🤖 Automação e Bots
+       - - 🧪 Testes e Quality Assurance
              
               - ---
 
@@ -119,8 +119,8 @@ Desenvolvedor apaixonado por código limpo e soluções criativas. Com experiên
 
               - ✨ Atualizado README do perfil
               - - 🚀 Lançamento de novo projeto em TypeScript
-                - - 🐛 Correção de bugs em projeto ativo
-                  - - 📚 Documentação melhorada de repositórios
+              - - 🐛 Correção de bugs em projeto ativo
+              - - 📚 Documentação melhorada de repositórios
                    
                     - </div>
 
