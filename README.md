@@ -1,137 +1,134 @@
 # 👋 Olá! Sou Nathan Silva
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+Full+Stack;Especialista+em+FiveM+e+Lua;Criador+de+Soluções+Inovadoras;+1.742+Contribuições+no+Último+Ano" alt="Typing SVG" />
-</div>
+## 📊 Analista de Dados | 🐍 Especialista em Python | 🚀 Automação & Integração
+
+Transformando dados em insights acionáveis. Com expertise em **Python, MongoDB, SQL, Power BI e automação de processos**, construo soluções robustas para análise de dados e otimização de operações.
+
+**Atualmente:** Analista de Dados na [Synvia](https://www.synvia.com.br) | **Localização:** Campos dos Goytacazes, RJ
 
 ---
 
-## 🎯 Sobre Mim
+## 💼 Sobre Mim
 
-Desenvolvedor apaixonado por código limpo e soluções criativas. Com experiência em desenvolvimento **FiveM/GTA V**, **Full Stack** e ferramentas de automação. Meu foco é criar aplicações robustas e bem documentadas que fazem diferença.
+Desenvolvedor apaixonado por código limpo e soluções criativas. Minha trajetória abrange:
+- Suporte Técnico → Gestão de Acessos SAP → Desenvolvimento de Software → **Análise de Dados**
 
-```
-💼 Desenvolvedor | 🎮 Entusiasta FiveM | 🚀 Inovador | 📊 Analista de Dados
-```
+- Especializado em transformar requisitos complexos em pipelines de dados eficientes, automações inteligentes e dashboards analíticos que geram valor real.
 
----
+- ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+### 🔴 Principais (Foco Atual)
 
-### Linguagens de Programação
-![Lua](https://img.shields.io/badge/Lua-2C3E50?style=for-the-badge&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tecnologias
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas & Atividades
+```
+Python • MongoDB • SQL • Power BI • APIs • Git • Automação
+```
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsilvan1&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsilvan1&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🌟 Projetos Destacados
-
-<div align="center">
-
-| Projeto | Descrição | Linguagem | Status |
-|---------|-----------|-----------|--------|
-| **VTRP-RJ** | Sistema de viaturas para FiveM - Rio de Janeiro | Lua | 🔄 Ativo |
-| **roupas-fivem** | Sistema completo de roupas e customização | Lua | 🔄 Ativo |
-| **TattooTrack** | Sistema de tatuagens para FiveM | TypeScript | ✅ Completo |
-| **mcutracker** | Rastreador inteligente de veículos | TypeScript | ✅ Completo |
-| **Rewritten** | Framework avançado de desenvolvimento | Lua | 🔄 Ativo |
+![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Specialist-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-cc2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Developer-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
+### 📊 Linguagens de Programação
+
+```
+Python (Principal) • TypeScript • JavaScript • Lua • HTML • CSS
+```
+
+### 🔧 Frameworks & Tecnologias
+
+```
+Node.js • React • Git • Bitbucket • Automação • ETL • APIs REST
+```
+
 ---
 
-## 💡 O que Estou Fazendo Agora
+## 📈 Estatísticas & Atividades
 
-- 🔨 Desenvolvendo novos módulos para servidor FiveM
-- - 📚 Estudando arquitetura de software avançada
-  - - 🌐 Expandindo portfólio com projetos Full Stack
-    - - 🤝 Colaborando em projetos de código aberto
+- **1.742** contribuições no último ano 📊
+- - **66** repositórios públicos e privados 📦
+  - - **120+** projetos completados 🎯
+    - - **385** conexões no LinkedIn 🔗
      
       - ---
 
-      ## 📈 Contribuições
+      ## 🌟 Projetos em Destaque
 
-      <div align="center">
-
-      ```
-      1.742 contribuições no último ano ✨
-      66 repositórios públicos e privados 📦
-      5 followers 👥
-      120+ projetos completados 🎯
-      ```
-
-      </div>
+      | Projeto | Descrição | Linguagem | Status |
+      |---------|-----------|-----------|--------|
+      | **data-analysis-portfolio** | Scripts Python para análise exploratória e transformação de dados | Python | 🔄 Ativo |
+      | **mongodb-data-pipeline** | Pipeline de ETL com Python + MongoDB | Python | 🔄 Ativo |
+      | **api-automation** | Automação de integração com APIs e armazenamento em MongoDB | Python | ✅ Completo |
+      | **power-bi-dashboards** | Exemplos de dashboards e métricas para análise | Power BI | ✅ Completo |
+      | **VTRP-RJ** | Sistema avançado de viaturas para FiveM | Lua | 🔄 Ativo |
 
       ---
 
-      ## 🔗 Conecte-se Comigo
+      ## 💡 O Que Estou Fazendo Agora
 
-      <div align="center">
-
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nsilvan1)
-      [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.nunes92@hotmail.com)
-      [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nsilvan1)
-      [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
-
-      </div>
-
-      ---
-
-      ## 🎁 Meus Interesses
-
-      - 🎮 Desenvolvimento de Servidores FiveM e Modificações GTA V
-      - - 💻 Programação Web e Mobile
-      - - 📊 Análise e Visualização de Dados
-      - - 🤖 Automação e Bots
-       - - 🧪 Testes e Quality Assurance
+      - 📊 Desenvolvendo pipelines de dados em Python (Pandas, NumPy, Scikit-learn)
+      - - 🚀 Construindo automações e integrações com APIs
+        - - 📈 Criando dashboards analíticos em Power BI e Plotly
+          - - 🤝 Colaborando com times de desenvolvimento em projetos open source
+            - - 📚 Aprofundando conhecimentos em arquitetura de dados e Big Data
              
               - ---
 
-              ## 📝 Últimas Atividades
+              ## 🎯 Minhas Competências Principais
 
-              <div align="center">
+              ✅ **Análise de Dados** - Exploração, limpeza e transformação de dados
+              ✅ **Python** - Automação, ETL, análise com Pandas/NumPy/Scikit-learn
+              ✅ **Banco de Dados** - MongoDB, SQL, queries otimizadas
+              ✅ **APIs & Integração** - Consumo de APIs, tratamento de dados
+              ✅ **Visualização** - Power BI, Plotly, Matplotlib
+              ✅ **Automação** - Scripts, workflows, RPA
+              ✅ **Versionamento** - Git, Bitbucket, boas práticas
 
-              - ✨ Atualizado README do perfil
-              - - 🚀 Lançamento de novo projeto em TypeScript
-              - - 🐛 Correção de bugs em projeto ativo
-              - - 📚 Documentação melhorada de repositórios
+              ---
+
+              ## 🎮 Interesses Adicionais
+
+              - 🎮 Desenvolvimento de Servidores FiveM e Modificações GTA V
+              - - 💻 Programação Web (Full Stack)
+                - - 🤖 Automação Inteligente e Bots
+                  - - 🧪 Testes e Quality Assurance
                    
-                    - </div>
+                    - ---
+
+                    ## 📝 Últimas Atividades
+
+                    ✨ Desenvolvendo scripts Python para análise de dados
+                    🚀 Lançando novos projetos de automação
+                    🐛 Otimizando pipelines de dados em produção
+                    📚 Documentação detalhada de projetos
 
                     ---
 
-                    <div align="center">
+                    ## 🔗 Conecte-se Comigo
 
-                    ### 💬 "Código limpo é a melhor documentação. À medida que você está prestes a adicionar um comentário, pergunte a si mesmo: 'Como posso melhorar o código para que esse comentário não seja necessário?'" - Steve McConnell
+                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-silva-%C2%A4-162087ab/)
+                    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nsilvan1)
+                    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
 
-                    ![Profile Views](https://komarev.com/ghpvc/?username=nsilvan1&style=flat-square&color=blue)
+                    ---
+
+                    ## 💬 Filosofia de Código
+
+                    > "Código limpo é a melhor documentação. À medida que você está prestes a adicionar um comentário, pergunte a si mesmo: 'Como posso melhorar o código para que esse comentário não seja necessário?'"
+                    > >
+                    > > > — **Steve McConnell**
+                    > > >
+                    > > > ---
+                    > > >
+                    > > > <div align="center">
 
                     **Feito com ❤️ por Nathan Silva**
+
+                    *"Transformando dados em decisões inteligentes"*
 
                     </div>
