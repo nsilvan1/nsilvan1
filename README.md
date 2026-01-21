@@ -131,4 +131,110 @@ Node.js • React • Git • Bitbucket • Automação • ETL • APIs REST
 
                     *"Transformando dados em decisões inteligentes"*
 
+                    ---
+                 
+                    ## 💻 Experiência em Desenvolvimento
+                 
+                    Além de Data Science, possuo sólida experiência em desenvolvimento de software com múltiplas linguagens e arquiteturas.
+                 
+                    ### 🚀 Linguagens de Desenvolvimento
+                 
+                    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+                    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+                    ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+                    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+                 
+                    ### 🔨 Stack de Desenvolvimento
+                 
+                    **Frontend:**
+                    - React, HTML5, CSS3
+                    - - Responsive Design, UI/UX
+                     
+                      - **Backend:**
+                      - - Node.js, Express
+                        - - REST APIs, Middleware
+                          - - Autenticação e Autorização
+                           
+                            - **Specialidades:**
+                            - - Desenvolvimento FiveM/GTA V (Lua)
+                              - - Sistemas complexos com TypeScript
+                                - - Integração de APIs
+                                  - - Padrões de Design e Arquitetura
+                                   
+                                    - ### 🌟 Projetos de Desenvolvimento em Destaque
+                                   
+                                    - | Projeto | Descrição | Stack | Status |
+                                    - |---------|-----------|-------|--------|
+                                    - | **VTRP-RJ** | Sistema avançado de viaturas para FiveM com sincronização em tempo real | Lua, TypeScript | 🔄 Ativo |
+                                    - | **roupas-fivem** | Sistema completo de customização de roupas com banco de dados integrado | Lua, SQL | 🔄 Ativo |
+                                    - | **TattooTrack** | Gerenciador de tatuagens com sistema de designs dinâmicos | TypeScript, MongoDB | ✅ Completo |
+                                    - | **mcutracker** | Rastreador inteligente de veículos com GPS em tempo real | TypeScript, Node.js | ✅ Completo |
+                                    - | **Rewritten Framework** | Framework avançado de desenvolvimento para servidores FiveM | Lua | 🔄 Ativo |
+                                   
+                                    - ### 📚 Conhecimentos Adicionais
+                                   
+                                    - ✅ **Padrões de Design** - MVC, Factory, Observer, Singleton
+                                    - ✅ **Versionamento** - Git, GitHub, Bitbucket
+                                    - ✅ **Testes** - Unit Testing, Integration Testing
+                                    - ✅ **Documentação** - README, JSDoc, Code Comments
+                                    - ✅ **Performance** - Otimização, Caching, Load Balancing
+                                    - ✅ **Segurança** - CORS, JWT, SQL Injection Prevention
+                                    - ✅ **DevOps Básico** - CI/CD concepts, Docker basics
+                                   
+                                    - ### 🎮 Especialidade FiveM
+                                   
+                                    - Desenvolvo soluções personalizadas para servidores GTA V com foco em:
+                                    - - Sistemas de dinâmica de servidor
+                                      - - Customização de personagens
+                                        - - Gerenciamento de veículos
+                                          - - Integração com bancos de dados
+                                            - - APIs e automações
+                                             
+                                              - ---
+                 
+                                              ## 📊 Combinação de Competências
+                 
+                                              ```
+                                              ┌─────────────────────────────────────────────────────┐
+                                              │         FULL STACK DATA & DEVELOPMENT               │
+                                              ├─────────────────────────────────────────────────────┤
+                                              │                                                     │
+                                              │  DATA LAYER                                         │
+                                              │  ├─ Python (Análise, ETL, Automação)              │
+                                              │  ├─ MongoDB & SQL (Armazenamento)                 │
+                                              │  └─ APIs & Integração                             │
+                                              │                                                     │
+                                              │  VISUALIZATION LAYER                               │
+                                              │  ├─ Power BI (Dashboards)                         │
+                                              │  ├─ Plotly & Matplotlib (Python)                  │
+                                              │  └─ Relatórios Interativos                        │
+                                              │                                                     │
+                                              │  APPLICATION LAYER                                 │
+                                              │  ├─ Node.js/Express (Backend)                     │
+                                              │  ├─ React (Frontend)                              │
+                                              │  └─ TypeScript (Type Safety)                      │
+                                              │                                                     │
+                                              │  INFRASTRUCTURE LAYER                              │
+                                              │  ├─ Git & Versionamento                           │
+                                              │  ├─ Automação & Workflows                         │
+                                              │  └─ Testes & Quality Assurance                    │
+                                              │                                                     │
+                                              └─────────────────────────────────────────────────────┘
+                                              ```
+                 
+                                              ---
+                 
+                                              ## 🤝 Colaboração
+                 
+                                              Estou aberto a colaborações em:
+                                              - 📊 Projetos de Data Science e Analytics
+                                              - - 💻 Desenvolvimento Web/Backend
+                                                - - 🎮 Desenvolvimento FiveM e mods para GTA V
+                                                  - - 🤖 Automação e Scripts
+                                                    - - 🧪 Code Review e Mentoria
+                                                     
+                                                      - ---
+                 
+                                                      **Vamos transformar ideias em código de qualidade! 🚀**
+
                     </div>
